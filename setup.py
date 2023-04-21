@@ -26,6 +26,7 @@ def get_requirements(file_path):
 setup(
     name='mlproject',
     version='0.0.1',
+    url="https://github.com/abhijitpaul0212/mlproject"
     author='Abhijit',
     author_email='abhijitpaul0102@gmail.com',
     packages=find_packages(),
